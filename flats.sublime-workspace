@@ -1,0 +1,429 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 352.0,
+		"last_filter": "pac",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Git",
+				"Package Control: Install Package"
+			],
+			[
+				"packlist",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 456.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/christine/code/xtine88/middleman-airbnb",
+		"/Users/christine/code/xtine88/middleman-airbnb/source",
+		"/Users/christine/code/xtine88/middleman-airbnb/source"
+	],
+	"file_history":
+	[
+		"/Users/christine/code/xtine88/middleman-airbnb/data/flats.yml",
+		"/Users/christine/code/xtine88/middleman-airbnb/source/stylesheets/components/_cards.scss",
+		"/Users/christine/code/xtine88/middleman-airbnb/config.rb",
+		"/Users/christine/code/xtine88/middleman-airbnb/source/index.html.erb",
+		"/Users/christine/code/xtine88/middleman-airbnb/source/stylesheets/components/_banner.scss",
+		"/Users/christine/code/xtine88/middleman-airbnb/source/stylesheets/components/_footer.scss",
+		"/Users/christine/code/xtine88/middleman-airbnb/source/stylesheets/components/_navbar.scss",
+		"/Users/christine/code/xtine88/middleman-airbnb/source/stylesheets/config/_fonts.scss",
+		"/Users/christine/code/xtine88/middleman-airbnb/source/stylesheets/config/_bootstrap_variables.scss",
+		"/Users/christine/code/xtine88/middleman-airbnb/source/stylesheets/config/_colors.scss",
+		"/Users/christine/code/xtine88/middleman-airbnb/source/stylesheets/layouts/_index.scss",
+		"/Users/christine/code/xtine88/middleman-airbnb/source/stylesheets/pages/_about.scss",
+		"/Users/christine/code/xtine88/middleman-airbnb/source/stylesheets/layouts/_user_dashboard.scss",
+		"/Users/christine/code/xtine88/middleman-airbnb/source/team.html.erb",
+		"/Users/christine/code/xtine88/middleman-airbnb/source/layouts/_navbar.html.erb",
+		"/Users/christine/code/xtine88/middleman-airbnb/data/team.yml",
+		"/Users/christine/code/xtine88/middleman-airbnb/source/layouts/layout.erb",
+		"/Users/christine/code/xtine88/middleman-airbnb/source/images/me.png",
+		"/Users/christine/code/xtine88/middleman-airbnb/build/images/christine.jpg",
+		"/Users/christine/code/xtine88/middleman-airbnb/source/stylesheets/components/_index.scss",
+		"/Users/christine/code/xtine88/middleman-airbnb/source/stylesheets/components/_alert.scss",
+		"/Users/christine/code/xtine88/middleman-airbnb/source/layouts/_footer.html.erb",
+		"/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/Headers/AEDataModel.h",
+		"/Users/christine/Downloads/solution_03-AR-Database_03-ActiveRecord-Basics_03-Seed-Faker (2) 2/spec/seeds_spec.rb",
+		"/Users/christine/code/xtine88/fullstack-challenges/03-AR-Database/04-ActiveRecord-Advanced/01-Associations/app/models/user.rb",
+		"/Users/christine/code/xtine88/fullstack-challenges/03-AR-Database/04-ActiveRecord-Advanced/01-Associations/db/migrate/20141025152200_create_posts.rb",
+		"/Users/christine/code/xtine88/fullstack-challenges/03-AR-Database/04-ActiveRecord-Advanced/01-Associations/app/models/post.rb",
+		"/Users/christine/code/xtine88/fullstack-challenges/03-AR-Database/04-ActiveRecord-Advanced/01-Associations/app/models/submitted_post.rb",
+		"/Users/christine/code/xtine88/fullstack-challenges/03-AR-Database/04-ActiveRecord-Advanced/01-Associations/db/migrate/20170801103539_create_submitted_posts.rb",
+		"/Users/christine/code/xtine88/fullstack-challenges/03-AR-Database/04-ActiveRecord-Advanced/01-Associations/db/migrate/20170801100741_create_users.rb",
+		"/Users/christine/Downloads/sinatra/db/migrate/20170725160601_create_restaurants.rb",
+		"/Users/christine/Downloads/sinatra/test.rb",
+		"/Users/christine/Downloads/solution_03-AR-Database_03-ActiveRecord-Basics_03-Seed-Faker 2/db/seeds.rb",
+		"/Users/christine/Downloads/solution_03-AR-Database_03-ActiveRecord-Basics_04-Seed-API/db/seeds.rb",
+		"/Users/christine/Downloads/solution_03-AR-Database_03-ActiveRecord-Basics_04-Seed-API/config/database.yml",
+		"/Users/christine/Downloads/solution_03-AR-Database_03-ActiveRecord-Basics_04-Seed-API/config/application.rb",
+		"/Users/christine/code/xtine88/fullstack-challenges/03-AR-Database/03-ActiveRecord-Basics/04-Seed-API/db/ruby.rb",
+		"/Users/christine/code/xtine88/fullstack-challenges/03-AR-Database/03-ActiveRecord-Basics/02-Models/app/models/post.rb",
+		"/Users/christine/code/xtine88/fullstack-challenges/03-AR-Database/03-ActiveRecord-Basics/01-Migrations/db/migrate/2017073110455_add_new_column.rb",
+		"/Users/christine/Downloads/solution_01-Ruby_02-Flow-Array_05-Destructive-Methods/lib/pmu.rb",
+		"/Users/christine/Desktop/Practice CODE/whats_your_name.rb",
+		"/Users/christine/Desktop/Practice CODE/what_is_your_age_in_days.rb",
+		"/Users/christine/Downloads/solution_01-Ruby_01-Programming-basics_02-Age-in-days (2)/lib/age_in_days.rb",
+		"/Users/christine/Downloads/solution_00-Setup_00-Demo (1) 2/lib/demo.rb",
+		"/Users/christine/Desktop/Practice CODE/Demo.rb",
+		"/Users/christine/Desktop/Demo.rb",
+		"/Users/christine/code/xtine88/fullstack-challenges/02-OOP/05-Food-Delivery-Day-One/01-Food-Delivery/app/controllers/order_controller.rb",
+		"/Users/christine/code/xtine88/fullstack-challenges/02-OOP/05-Food-Delivery-Day-One/01-Food-Delivery/app/models/order.rb",
+		"/Users/christine/code/xtine88/fullstack-challenges/02-OOP/05-Food-Delivery-Day-One/01-Food-Delivery/app/models/employee.rb",
+		"/Users/christine/Downloads/food-delivery/app/repositories/employee_repository.rb",
+		"/Users/christine/Downloads/food-delivery/app/models/meal.rb",
+		"/Users/christine/Downloads/food-delivery/app/models/delivery_guy.rb",
+		"/Users/christine/Downloads/food-delivery/app/models/employee.rb",
+		"/Users/christine/Downloads/01_food_delivery_day_one (3)/app/models/employee.rb",
+		"/Users/christine/Downloads/01_food_delivery_day_one/app/models/employee.rb",
+		"/Users/christine/Downloads/todo_manager/app.rb",
+		"/Users/christine/code/xtine88/fullstack-challenges/02-OOP/05-Food-Delivery-Day-One/01-Food-Delivery/app/views/customer_view.rb",
+		"/Users/christine/code/xtine88/fullstack-challenges/02-OOP/05-Food-Delivery-Day-One/01-Food-Delivery/app/controllers/customer_controller.rb",
+		"/Users/christine/code/xtine88/fullstack-challenges/02-OOP/05-Food-Delivery-Day-One/01-Food-Delivery/app/repositories/meal_repository.rb",
+		"/Users/christine/code/xtine88/fullstack-challenges/02-OOP/05-Food-Delivery-Day-One/01-Food-Delivery/app/views/meal_view.rb",
+		"/Users/christine/code/xtine88/fullstack-challenges/02-OOP/05-Food-Delivery-Day-One/01-Food-Delivery/app/repositories/customer_repository.rb",
+		"/Users/christine/code/xtine88/fullstack-challenges/02-OOP/05-Food-Delivery-Day-One/01-Food-Delivery/app/models/customer.rb",
+		"/Users/christine/code/xtine88/fullstack-challenges/02-OOP/05-Food-Delivery-Day-One/01-Food-Delivery/app.rb",
+		"/Users/christine/code/xtine88/fullstack-challenges/02-OOP/05-Food-Delivery-Day-One/01-Food-Delivery/app/controllers/meals_controller.rb",
+		"/Users/christine/code/xtine88/fullstack-challenges/02-OOP/05-Food-Delivery-Day-One/01-Food-Delivery/router.rb",
+		"/Users/christine/code/xtine88/fullstack-challenges/02-OOP/05-Food-Delivery-Day-One/01-Food-Delivery/spec/01_01_meal_spec.rb",
+		"/Users/christine/code/xtine88/fullstack-challenges/02-OOP/05-Food-Delivery-Day-One/01-Food-Delivery/spec/01_02_meal_repository_spec.rb",
+		"/Users/christine/code/xtine88/fullstack-challenges/02-OOP/05-Food-Delivery-Day-One/01-Food-Delivery/app/models/meal.rb",
+		"/Users/christine/code/xtine88/fullstack-challenges/02-OOP/05-Food-Delivery-Day-One/01-Food-Delivery/app/controllers/meal_controller.rb",
+		"/Users/christine/code/xtine88/fullstack-challenges/02-OOP/04-Cookbook-Day-Two/01-Cookbook-Advanced/lib/view.rb",
+		"/Users/christine/code/xtine88/fullstack-challenges/02-OOP/04-Cookbook-Day-Two/01-Cookbook-Advanced/lib/app.rb",
+		"/Users/christine/code/xtine88/fullstack-challenges/02-OOP/04-Cookbook-Day-Two/01-Cookbook-Advanced/lib/controller.rb",
+		"/Users/christine/code/xtine88/fullstack-challenges/02-OOP/04-Cookbook-Day-Two/01-Cookbook-Advanced/lib/cookbook.rb",
+		"/Users/christine/code/xtine88/fullstack-challenges/02-OOP/04-Cookbook-Day-Two/01-Cookbook-Advanced/lib/router.rb",
+		"/Users/christine/code/xtine88/fullstack-challenges/02-OOP/04-Cookbook-Day-Two/01-Cookbook-Advanced/lib/parsing.rb",
+		"/Users/christine/code/xtine88/fullstack-challenges/02-OOP/04-Cookbook-Day-Two/01-Cookbook-Advanced/lib/recipe.rb",
+		"/Users/christine/Downloads/solution_02-OOP_01-OO-Basics_03-Basic-OOP/lib/orange_tree.rb",
+		"/Users/christine/Downloads/solution_02-OOP_01-OO-Basics_02-Getters-and-Setters/lib/vending_machine.rb",
+		"/Users/christine/Downloads/solution_02-OOP_01-OO-Basics_02-Getters-and-Setters/lib/refilling_scenario.rb",
+		"/Users/christine/Downloads/solution_02-OOP_01-OO-Basics_02-Getters-and-Setters/lib/buying_scenario.rb",
+		"/Users/christine/Downloads/solution_02-OOP_01-OO-Basics_01-Define-your-own-class 2/lib/car.rb",
+		"/Users/christine/Downloads/solution_02-OOP_01-OO-Basics_01-Define-your-own-class 2/lib/restaurant.rb",
+		"/Users/christine/code/xtine88/simple_calculator.rb",
+		"/Users/christine/code/xtine88/calculator.rb",
+		"/Users/christine/code/xtine88/fullstack-challenges/02-OOP/03-Cookbook-Day-One/01-Cookbook/lib/cookbook.csv",
+		"/Users/christine/code/xtine88/fullstack-challenges/02-OOP/03-Cookbook-Day-One/01-Cookbook/lib/repository.rb",
+		"/Users/christine/code/xtine88/fullstack-challenges/02-OOP/03-Cookbook-Day-One/01-Cookbook/remove.csv",
+		"/Users/christine/code/xtine88/fullstack-challenges/02-OOP/03-Cookbook-Day-One/01-Cookbook/lib/recipes.csv",
+		"/Users/christine/Downloads/solution_02-OOP_01-OO-Basics_04-Public-Interface 2/lib/bank_account.rb",
+		"/Users/christine/Downloads/solution_01-Ruby_05-Regular-Expressions_Reboot-03-Instacart (1)/lib/instacart.rb",
+		"/Users/christine/Downloads/solution_01-Ruby_05-Regular-Expressions_Reboot-03-Instacart/lib/instacart.rb",
+		"/Users/christine/Downloads/solution_01-Ruby_05-Regular-Expressions_Reboot-02-Horse-race/lib/horse_race.rb",
+		"/Users/christine/Downloads/solution_01-Ruby_02-Flow-Array_01-Simple-looping (2)/lib/simple_looping.rb",
+		"/Users/christine/Downloads/solution_01-Ruby_01-Programming-basics_04-Stupid-coaching/lib/coach_answer.rb",
+		"/Users/christine/Downloads/solution_01-Ruby_01-Programming-basics_03-What-your-name/lib/compute_name.rb",
+		"/Users/christine/Downloads/solution_01-Ruby_01-Programming-basics_02-Age-in-days (1)/lib/age_in_days.rb",
+		"/Users/christine/Downloads/solution_01-Ruby_01-Programming-basics_01-Experiment-methods (1)/lib/experiment.rb",
+		"/Users/christine/code/xtine88/fullstack-challenges/01-Ruby/03-Iterators-Blocks/01-Enumerable/lib/enumerable.rb",
+		"/Users/christine/code/xtine88/fullstack-challenges/01-Ruby/01-Programming-basics/04-Stupid-coaching/lib/interface.rb",
+		"/Users/christine/code/xtine88/fullstack-challenges/01-Ruby/01-Programming-basics/02-Age-in-days/age_in_days",
+		"/Users/christine/code/xtine88/fullstack-challenges/01-Ruby/01-Programming-basics/01-Experiment-methods/ruby.rb",
+		"/Users/christine/.ssh/config",
+		"/Users/christine/Library/Caches/com.apple.parsecd/crowdsourcing_blacklist_url",
+		"/Users/christine/Desktop/Le Wagon/bootstrap-sass-3.3.7/package.json",
+		"/Users/christine/Library/Containers/com.apple.quicklook.ui.helper/Data/Library/Preferences/ByHost/com.apple.TextEdit.25651838-FECC-5252-BFEA-C3B74C2FA3B9.plist",
+		"/Users/christine/Desktop/style.css",
+		"/Users/christine/Desktop/index.html",
+		"/playground.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"meals",
+			"price",
+			"meal",
+			"10",
+			"age_of_tree + age"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "flats.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packlist",
+				"Library/Caches/com.apple.parsecd/crowdsourcing_blacklist_url"
+			],
+			[
+				"pack",
+				"Desktop/Le Wagon/bootstrap-sass-3.3.7/package.json"
+			],
+			[
+				"allautocomplete",
+				"Library/Containers/com.apple.quicklook.ui.helper/Data/Library/Preferences/ByHost/com.apple.TextEdit.25651838-FECC-5252-BFEA-C3B74C2FA3B9.plist"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 279.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
