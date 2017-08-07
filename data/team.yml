@@ -1,0 +1,5 @@
+- name: 'Me'
+  city: 'Los Angeles'
+- name: 'Buddy'
+  city: 'Berlin'
+
